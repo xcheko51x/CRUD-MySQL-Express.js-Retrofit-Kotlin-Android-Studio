@@ -15,7 +15,7 @@ npm install
 ### 4. Para lanzar el servidor con nodemon en la terminal usa el siguiente comando
 
 ```
-### npm run dev
+npm run dev
 ```
     
 ### 5. En el proyecto de Android Studio tienes que abrir archivo **WebService.kt** y cambiar la IP de la constante **BASE_URL** por la IP de la maquina que uses como servidor o en su defecto poner el dominio de tu sitio web
